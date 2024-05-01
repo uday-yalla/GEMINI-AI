@@ -243,7 +243,7 @@ input ::placeholder{
    margin: 0%;
   }
   .nav{
-    width: 75%;
+    width:60%;
     border: none;
   } 
   .nav p{
@@ -253,8 +253,8 @@ input ::placeholder{
     width: 35px;
     margin-right: 10px;
   }
- 
 }
+
 @media (max-width:600px) {
   .Main-Bottom-section{
     position: relative;
@@ -264,13 +264,13 @@ input ::placeholder{
   }
   .Search-Field input{
   flex: none;
-  width:150px ;
+  width:200px ;
   }
   .Search-Field img{
     width: 20px;
   }
   .Search-Field div{
-    gap: 5px;
+    gap: 8px;
   }
   .Search-Field{
     padding: 5px 10px;
